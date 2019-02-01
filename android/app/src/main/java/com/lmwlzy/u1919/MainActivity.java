@@ -1,4 +1,4 @@
-package com.u1919.u1919;
+package com.lmwlzy.u1919;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
