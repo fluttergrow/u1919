@@ -25,17 +25,3 @@
 ](https://github.com/yang7229693/flutter-study/blob/master/post/15.%20Flutter%20%E5%B8%83%E5%B1%80%E6%8E%A7%E4%BB%B6%E5%AE%8C%E7%BB%93%E7%AF%87.md)
 16. [Flutter 动画详解（一）](https://github.com/yang7229693/flutter-study/blob/master/post/16.%20Flutter%20%E5%8A%A8%E7%94%BB%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%80%EF%BC%89.md)
 17. [Flutter 动画详解（二）](https://github.com/yang7229693/flutter-study/blob/master/post/17.%20Flutter%20%E5%8A%A8%E7%94%BB%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%BA%8C%EF%BC%89.md)
-
-
-## Demo
-
-1. [Flutter 布局详解 Demo工程](https://github.com/yang7229693/flutter-study/tree/master/demo/3.%20Flutter%E5%B8%83%E5%B1%80)
-2. [Flutter布局系列 Demo工程](https://github.com/yang7229693/flutter-study/tree/master/demo/4.%20Flutter%E5%B8%83%E5%B1%80Widget%E4%BB%8B%E7%BB%8D/flutter_layout_demo)
-
-## 其他
-
-[个人博客](http://whysodiao.com)
-
-[掘金专栏](https://juejin.im/user/5ad0162df265da2397074520/posts)
-
-[简书主页](https://www.jianshu.com/u/312aad1f1c8b)
